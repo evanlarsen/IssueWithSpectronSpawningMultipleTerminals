@@ -1,0 +1,19 @@
+{
+  "name": "blackscreen",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main",
+  "scripts": {
+    "test": "mocha",
+    "start": "electron ."
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "4.0.1",
+    "spectron": "3.7.2"
+  },
+  "dependencies": {
+    "electron": "1.7.9"
+  }
+}
